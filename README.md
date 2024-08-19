@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi there! I’m a Data Engineer with over 8 years of experience. I’ve worked on everything from data analysis to designing and implementing data pipelines. I’ve got a solid background in various cloud platforms, big data frameworks, and a bunch of programming languages.
+Wanna know more about me...Well here you go!  I’m a Data Engineer with over 8 years of experience. I’ve worked on everything from data analysis to designing and implementing data pipelines. I’ve got a solid background in various cloud platforms, big data frameworks, and a bunch of programming languages.
 - 🔭 I’m currently working on Building data pipelines using Azure Data Factory and Azure Databricks. Involved in ensuring data quality with robust checks. Migrating legacy applications to the cloud with tools like GitHub, Jenkins, JIRA, and Docker.
 - 🌱 I’m currently learning: New features in AWS and Azure, Kubernetes for cloud deployments, NoSQL databases, especially MongoDB and Cassandra.
 - 👯 I’m looking to collaborate on End-to-end data pipeline projects, Data quality and governance initiatives. Excited for Open-source big data and cloud computing projects as well.
