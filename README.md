@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-**Anvitha-Naga-Sai/Anvitha-Naga-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 Hi there! I’m a Data Engineer with over 8 years of experience. I’ve worked on everything from data analysis to designing and implementing data pipelines. I’ve got a solid background in various cloud platforms, big data frameworks, and a bunch of programming languages.
 - 🔭 I’m currently working on Building data pipelines using Azure Data Factory and Azure Databricks. Involved in ensuring data quality with robust checks. Migrating legacy applications to the cloud with tools like GitHub, Jenkins, JIRA, and Docker.
 - 🌱 I’m currently learning: New features in AWS and Azure, Kubernetes for cloud deployments, NoSQL databases, especially MongoDB and Cassandra.
