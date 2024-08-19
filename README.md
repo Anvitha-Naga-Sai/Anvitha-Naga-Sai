@@ -9,7 +9,7 @@ Wanna know more about me...Well here you go!  I’m a Data Engineer with over 8 
 - Certifications: 
 1. Professional Certificate in Data Engineering Course by Udemy platform
 2. DP 100: Microsoft Certfied:Azure Data Scientist Associate Cerification 
-3.Tableau Course: Linkedin Learning Certificate
+3. Tableau Course: Linkedin Learning Certificate
 - 📫 How to reach me: anvithanagasai@outlook.com or connect me on my linkedin: https://www.linkedin.com/in/anvithanagasai/
 - 😄 Pronouns: SHE/HER/HERS 
 - ⚡ Fun fact: As a data engineer, I manage complex data pipelines that process terabytes of data daily. In my free time, I love diving into data visualization projects using Python libraries like matplotlib and seaborn. It’s fascinating to transform raw data into beautiful, insightful visual stories!
